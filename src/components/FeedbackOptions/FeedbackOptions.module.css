@@ -1,0 +1,16 @@
+.button {
+  font-weight: bold;
+  margin: 0 5px;
+  background: white;
+  border: 1px solid grey;
+  border-radius: 5px;
+  box-shadow: 0px 0px 21px 0px rgba(0, 0, 0, 0.75);
+}
+
+.button:active {
+  background: rgb(64, 112, 216);
+}
+
+.button::first-letter {
+  text-transform: uppercase;
+}
