@@ -50,5 +50,5 @@
     "lint-staged": "^10.0.0-beta.6",
     "prettier": "^1.19.1"
   },
-  "homepage": "https://prima3110.github.io/goit-react-hw-01-components/"
+  "homepage": "https://prima3110.github.io/goit-react-hw-02-feedback"
 }
